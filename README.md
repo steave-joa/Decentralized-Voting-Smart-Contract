@@ -57,6 +57,8 @@ decentralized-voting-solidity/
 └── README.md
 
 ---
-## 👨‍💻 Author 
+## 👨‍💻 Author
 
 Joa steave kaleph
+
+🔗 [GitHub](https://github.com/steave-joa)
