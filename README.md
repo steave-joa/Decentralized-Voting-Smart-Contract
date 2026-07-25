@@ -55,3 +55,8 @@ decentralized-voting-solidity/
 │
 ├── Voting.sol
 └── README.md
+
+---
+## 👨‍💻 Author 
+
+Joa steave kaleph
