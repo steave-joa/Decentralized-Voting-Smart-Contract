@@ -55,10 +55,12 @@ decentralized-voting-solidity/
 │
 ├── Voting.sol
 └── README.md
+```
 
 ---
+
 ## 👨‍💻 Author
 
-Joa steave kaleph
+Joa steave Kaleph.C
 
-🔗 [GitHub](https://github.com/steave-joa)
+Aspiring Blockchain Developer | Solidity | Smart Contracts | Web3
